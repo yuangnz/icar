@@ -1,0 +1,20 @@
+.imagen-carro {
+    max-width: 100%; /* Evitar que la imagen se extienda más allá de su contenedor */
+    height: auto; /* Hacer que la altura se ajuste automáticamente para mantener la proporción original */
+}
+
+.lista-datos li {
+    list-style: none;
+    margin-bottom: 20px; /* Espaciado entre elementos de la lista */
+}
+
+.imagen-carro {
+    max-width: 100%; /* Evitar que la imagen se extienda más allá de su contenedor */
+    height: auto; /* Hacer que la altura se ajuste automáticamente para mantener la proporción original */
+    max-height: 200px; /* Establecer una altura máxima para la imagen */
+}
+
+.lista-datos li {
+    list-style: none;
+    margin-bottom: 20px; /* Espaciado entre elementos de la lista */
+}

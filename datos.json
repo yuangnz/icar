@@ -1,0 +1,26 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Trueno APEX",
+        "tipo": "Autodomestico",
+        "anio": "1986",
+        "descripcion": "Toyota Trueno de Initial D",
+        "imagenUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/31\/Toyota_SPRINTER_TRUENO_GT-APEX_%28E-AE86-FCMVF%29_ver.INITIAL_D.jpg"
+    },
+    {
+        "marca": "Lexus",
+        "modelo": "LFA",
+        "tipo": "Superdeportivo",
+        "anio": "2012",
+        "descripcion": "Auto superdeportivo de solo 500 unidades.\n",
+        "imagenUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/82\/Lexus_LFA_001.JPG\/800px-Lexus_LFA_001.JPG"
+    },
+    {
+        "marca": "Subaru",
+        "modelo": "22b",
+        "tipo": "Rally",
+        "anio": "1998",
+        "descripcion": "Mitico auto de rally en 1998",
+        "imagenUrl": "https:\/\/www.motortrend.com\/uploads\/sites\/5\/2020\/07\/1998_Subaru_Impreza_22B_5.jpg"
+    }
+]
