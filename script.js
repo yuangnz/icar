@@ -122,9 +122,6 @@ function confirmarModificacion() {
     });
 }
 
-// ... (tu código existente)
-
-
 function eliminarElemento(marca, modelo) {
     // Realizar una solicitud AJAX para eliminar el elemento
     $.ajax({
